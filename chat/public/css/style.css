@@ -1,0 +1,77 @@
+.login{
+    background-color: pink;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+#recaptcha-container {
+    display: flex;
+}
+
+
+.sms_center{
+    text-align: center;
+}  
+
+footer{
+    margin-top: 10%;
+}
+
+input[type=text] {
+        width: 25%;
+        padding: 12px 20px;
+        box-sizing: border-box;
+        border: 2px solid red;
+        border-radius: 4px;
+      }
+
+
+button {
+    width: 25%;
+    padding: 12px 20px;
+    margin: 8px;
+    margin-left: 20px;
+    box-sizing: border-box;
+    border: 2px solid red;
+    border-radius: 4px;
+    background-color: beige;
+  }
+
+
+
+  input{
+
+    width: 25%;
+    padding: 12px 20px;
+    margin: 8px;
+    margin-left: 20px;
+    box-sizing: border-box;
+    border: 2px solid red;
+    border-radius: 4px;
+    background-color: beige;
+
+  }
+
+  .button-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+  .button-container button {
+    margin-bottom: 10px; /* adjust this value for spacing between buttons */
+    width: 300px;
+  }
+
+  footer{
+    background-color: grey;
+    text-align: center;
+    color: white;
+  }
